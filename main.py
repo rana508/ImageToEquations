@@ -13,7 +13,7 @@ Usage:
  - Or convert PNG images to SVG using https://convertio.co/png-svg/
 """
 # Enter file location here
-file = open(r"C:\Users\Vigne\Downloads\309-3099202_3d-cube-isometric-cube-png.svg", "r")
+file = open(r"C:\Users\ranabdurehman123@outlook.com\Downloads\hkljlkl.svg", "r")
 data = str(file.read()).replace('fill="#000000" opacity="1.000000" stroke="none"', "")
 file.close()
 
